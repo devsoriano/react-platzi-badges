@@ -13,5 +13,6 @@ ReactDOM.render(
     lastName="Soriano" 
     jobTitle="Frontend Engineer" 
     twitter="@frontendbadass"
+    avatarURL="https://www.gravatar.com/avatar?d=identicon"
   />,
 container);
